@@ -5,9 +5,10 @@ I'm Luis Carranza,an FullStack Web Developer :iphone: from Peru who is passionat
 
 ### ⚡ Technologies
 Talk to me about
-- Backend development **PHP,Laravel**
-- Frontend development-**HTML5/CSS3, Javascript, Vue 3**
-- **SCRUM, Kanban**
+- Backend development **PHP, Laravel**
+- Frontend development **HTML5/CSS3, Javascript, Vue 3**
+- Databases **MySQL, PostgreSQL**
+- Agile methodologies **SCRUM, Kanban**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
